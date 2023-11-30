@@ -1,4 +1,4 @@
-Bangladesh GeoCode
+Bangladesh GeoLocation
 ==================
 
 ***Division***, ***District***, ***Upazila*** and, ***Union*** level fully mapped MySQL Database, json data. Import all the files in your DB and make Join Queries (may be) to get your desired geo information. 
